@@ -1,4 +1,4 @@
-#Drowsiness Detection System
+## Drowsiness Detection System
 
 A deep learning-powered, vision-based system for real-time driver drowsiness detection using facial video analysis. The model combines **CNN** for spatial feature extraction and **LSTM** for temporal pattern modeling to classify drivers as **Alert** or **Drowsy**, helping reduce fatigue-related road accidents.
 
